@@ -2,7 +2,7 @@
 
 ~~我本来想凑齐20个我知道的CSS，看着体面些~~，后来发现**我都知道的CSS**是因为我知道的太少了。
 
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbe8bec0c91c0?w=480&h=230&f=jpeg&s=33920)  
+![](https://i.loli.net/2019/07/23/5d36e230eb57a76535.png) 
 ## 1、css盒模型
 **box-sizing 属性：border-box、content-box**<br>
 
@@ -181,7 +181,8 @@ CSS 伪元素用于将特殊的效果添加到某些选择器。
 
 ## 14、关于重绘与重排，以及一些优化问题？  
 感觉俺要写不动了，这里看到有篇文章讲的不错  [浏览器重绘(repaint)重排(reflow)与优化[浏览器机制]](https://juejin.im/post/5c15f797f265da61141c7f86)
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbbe599cf83ef4?w=720&h=720&f=jpeg&s=81393)
+
+<div align=center>![](https://i.loli.net/2019/07/23/5d36e261a5a9726572.png) <div>
 
 <br>
 
@@ -227,4 +228,4 @@ div + p {
 随着油菜籽人生阅历的不断增长，所知道CSS也 ~~应该~~ 会越来越多，所以本文**我都知道的CSS**或将得到后续更新。
 
 
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbc0b7f2aa4146?w=160&h=128&f=jpeg&s=13940)
+<div align=center>![](https://i.loli.net/2019/07/23/5d36e2081f4a581839.png)
