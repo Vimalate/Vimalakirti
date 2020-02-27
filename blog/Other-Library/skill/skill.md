@@ -53,3 +53,20 @@ function parseURL(url) {
 
 ```
 
+## Vue 路由懒加载方法简易封装
+
+```js
+    /**
+    *@parma {String} name 文件夹名称
+    *@parma {String} component 视图组件名称
+    */
+    const getComponent = (name,component) => () => import(`@/views/${name}/${component}.vue`);
+```
+
+## Vue 里有用的招
+
+在组件中有 input 时
+
+v-model.trim ：自动过滤用户输入的首尾空白字符
+
+和 v-model.number ：自动将用户的输入值转为数值类型
